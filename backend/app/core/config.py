@@ -14,10 +14,7 @@ class Settings:
         "http://localhost:3000", 
         "http://localhost:8000", 
         "http://127.0.0.1:3000",
-        "https://hackathon2phase2frontend.vercel.app",
-        "https://hackathon2phase3frontend.vercel.app",
-        "https://finalhackathon-nine.vercel.app",
-        "https://hackathon2phase3backend.vercel.app"
+        "https://tasks-vert-ten.vercel.app",
     ]
 
 settings = Settings()

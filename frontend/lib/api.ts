@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // 1. Added quotes around the URL
-const API_URL = "https://hackathon2phase3backend.vercel.app"; 
+const API_URL = "https://tasks-backend-six.vercel.app"; 
 
 const api = axios.create({
   baseURL: `${API_URL}/api/v1`,

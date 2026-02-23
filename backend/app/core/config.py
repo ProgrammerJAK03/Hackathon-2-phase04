@@ -14,7 +14,7 @@ class Settings:
         "http://localhost:3000", 
         "http://localhost:8000", 
         "http://127.0.0.1:3000",
-        "https://tasks-vert-ten.vercel.app",
+        "https://tasks-tau-sepia.vercel.app",
     ]
 
 settings = Settings()
